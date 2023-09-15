@@ -1,0 +1,46 @@
+Sep 15, 2023 7:48:08 AM runner.Base openBrowser
+INFO: Browser Launched
+Sep 15, 2023 7:48:10 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 15, 2023 7:48:10 AM runner.Testcase1 Register
+INFO: Browser Navigated to the Register Page
+Sep 15, 2023 7:48:11 AM runner.Testcase1 Register
+INFO: Female Button clicked in the Register Page
+Sep 15, 2023 7:48:12 AM runner.Testcase1 Register
+INFO: First Name Entered in the Register Page
+Sep 15, 2023 7:48:13 AM runner.Testcase1 Register
+INFO: Last Name Entered in the Register Page
+Sep 15, 2023 7:48:14 AM runner.Testcase1 Register
+INFO: Email Entered in the Register Page
+Sep 15, 2023 7:48:14 AM runner.Testcase1 Register
+INFO: Password Entered in the Register Page
+Sep 15, 2023 7:48:15 AM runner.Testcase1 Register
+INFO: Confirm Password Entered in the Register Page
+Sep 15, 2023 7:48:15 AM runner.Testcase1 Register
+INFO: Screenshot taken in the Register Page
+Sep 15, 2023 7:48:17 AM runner.Testcase1 Register
+INFO: Register Button Clicked
+Sep 15, 2023 7:48:17 AM runner.Testcase1 afterMethod
+INFO: Browser closed
+Sep 15, 2023 7:48:19 AM runner.Base openBrowser
+INFO: Browser Launched
+Sep 15, 2023 7:48:20 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 15, 2023 7:48:21 AM runner.Testcase1 Valid_Login_TC
+INFO: username read from excel and entered in the field
+Sep 15, 2023 7:48:22 AM runner.Testcase1 Valid_Login_TC
+INFO: password read from excel and entered in the field
+Sep 15, 2023 7:48:22 AM runner.Testcase1 Valid_Login_TC
+INFO: Login Button Clicked
+Sep 15, 2023 7:48:23 AM runner.Testcase1 Valid_Login_TC
+INFO: Screenshot taken
+Sep 15, 2023 7:48:23 AM runner.Testcase1 afterMethod
+INFO: Browser closed
+Sep 15, 2023 7:48:24 AM runner.Base openBrowser
+INFO: Browser Launched
+Sep 15, 2023 7:48:25 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 15, 2023 7:48:25 AM runner.Testcase1 TC_Vote_003
+INFO: Test Started
+Sep 15, 2023 7:48:28 AM runner.Testcase1 afterMethod
+INFO: Browser closed
